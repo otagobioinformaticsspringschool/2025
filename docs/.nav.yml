@@ -1,0 +1,6 @@
+ignore:
+  - "child/*"
+nav:
+  - "Index":
+    - "index.md"
+
