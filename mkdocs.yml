@@ -1,4 +1,4 @@
-site_name: Research and Teaching IT Support
+site_name: Bioinformatics Spring School 2025
 theme : 
   name: material
   custom_dir: overrides
@@ -22,6 +22,7 @@ plugins:
   - search
   - awesome-nav
   - macros
+  - include-markdown
   - table-reader
   - caption:
       table:

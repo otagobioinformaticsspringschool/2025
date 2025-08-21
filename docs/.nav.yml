@@ -1,6 +1,7 @@
 ignore:
   - "child/*"
 nav:
-  - "Index":
+  - "About":
     - "index.md"
+  - Workshop_Descriptions
 

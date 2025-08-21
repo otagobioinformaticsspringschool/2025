@@ -1,0 +1,5 @@
+* Dr Chloe Van Der Berg (Genomics Aotearoa)
+* Matt Bixley (REANNZ)
+* Professor Mik Black (Biochemistry)
+* Dr Murray Cadzow (Research and Teaching IT Support)
+* Dr Ludovic Dutoit (Zoology)
