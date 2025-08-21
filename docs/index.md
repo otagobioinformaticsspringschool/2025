@@ -1,5 +1,8 @@
 # About
 
+!!! tip
+    Expressions of interest will be opening before the end of August
+
 Bioinformatics Spring School 2025 is a week long training event for researchers, supported by Genomics Aotearoa and Research Education Advanced Network New Zealand (REANNZ).
 
 We will combine talks from researchers and hands on computational workshops (influenced by The Carpentries), covering example bioinformatic workflows. The exact topics will be decided by the organisers based on submitted Expression of Interests.
