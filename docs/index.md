@@ -50,7 +50,7 @@ Each of the following links to existing workshops in the GA training catalogue a
 - [Intermediate R](https://genomicsaotearoa.github.io/Intermediate-R/)
 - [Intermediate Shell for Bioinformatics](https://genomicsaotearoa.github.io/shell-for-bioinformatics/)
 - [Introduction to Reproduciblity with Quarto](https://genomicsaotearoa.github.io/reproducibility_with_git_and_quarto/quarto_overview.html)
-- [Introduction to Version Control with Git]()
+- [Introduction to Version Control with Git](https://swcarpentry.github.io/git-novice/)
 - [Introduction to workflow pipelines with Nextflow](https://genomicsaotearoa.github.io/introduction-to-nextflow/)
 
 
