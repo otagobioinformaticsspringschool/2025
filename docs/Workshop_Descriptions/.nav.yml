@@ -1,0 +1,6 @@
+nav:
+  - "Day 1":
+      - hpc.md
+      - bash.md
+  - "Day 2":
+      - gdc.md

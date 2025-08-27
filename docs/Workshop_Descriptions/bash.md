@@ -5,3 +5,6 @@ Many bioinformatic programs will only operate in a Unix command line environment
 - Navigating around the filesystem (files/directories/folders)
 - Running command line based programs
 - Creating scripts to automate workflows
+
+
+The content for this workshop can be found at [this workshop website](https://otagobioinformaticsspringschool.github.io/shell-genomics-nesi/).
