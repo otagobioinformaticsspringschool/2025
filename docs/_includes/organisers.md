@@ -1,4 +1,4 @@
-* Dr Chloe Van Der Berg (Genomics Aotearoa)
+* Dr Chloe Van Der Burg (Genomics Aotearoa)
 * Matt Bixley (REANNZ)
 * Professor Mik Black (Biochemistry)
 * Dr Murray Cadzow (Research and Teaching IT Support)
