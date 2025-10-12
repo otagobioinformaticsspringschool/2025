@@ -4,3 +4,10 @@ nav:
       - bash.md
   - "Day 2":
       - gdc.md
+  - "Day 3":
+      - ga.md
+      - r.md
+  - "Day 4":
+      - rna.md
+  - "Day 5":
+      - tasters.md
