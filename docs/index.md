@@ -34,6 +34,7 @@ This event itself will only cost your time (there isn't a $ charge) and lunches 
 
 - [Introduction to an HPC environment](Workshop_Descriptions/hpc.md)
 - [Introduction to Unix Shell](Workshop_Descriptions/bash.md)
+- Indigenous genomic data considerations
 
 ### Tuesday:
 
