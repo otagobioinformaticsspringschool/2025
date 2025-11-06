@@ -9,4 +9,4 @@ This workshop lays the foundation to the week and introduces common genomic data
 - Variant calling workflow
 - Automating a variant calling workflow
 
-The full workshop is found at [the workshop website.](https://otagobioinformaticsspringschool.github.io/wrangling-genomics-nesi/)
+The full workshop is found at [the workshop website.](https://otagobioinformaticsspringschool.github.io/wrangling-genomics-reannz/)

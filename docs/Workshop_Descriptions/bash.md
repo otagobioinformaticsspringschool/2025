@@ -7,4 +7,4 @@ Many bioinformatic programs will only operate in a Unix command line environment
 - Creating scripts to automate workflows
 
 
-The content for this workshop can be found at [this workshop website](https://otagobioinformaticsspringschool.github.io/shell-genomics-nesi/).
+The content for this workshop can be found at [this workshop website](https://otagobioinformaticsspringschool.github.io/shell-genomics-reannz/).

@@ -1,3 +1,3 @@
 # Introduction to RNAseq
 
-[Introduction to RNAseq](https://genomicsaotearoa.github.io/RNA-seq-data-analysis-workflow/)
+[Introduction to RNAseq](https://otagobioinformaticsspringschool.github.io/RNA-seq-data-analysis-workflow/)

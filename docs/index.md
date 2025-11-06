@@ -36,12 +36,36 @@ This event itself will only cost your time (there isn't a $ charge) and lunches 
 - [Introduction to Unix Shell](Workshop_Descriptions/bash.md)
 - Indigenous genomic data considerations
 
+Time | Session
+---|---
+09:30 | Welcome
+10:00 | Intro HPC
+10:30 | Break
+10:50 | Unix Shell
+12:15 | Lunch
+13:00 | Unix Shell cont
+14:40 | Break
+15:00 | Indigenous Genomic Data
+16:30 | Done
+
+
 ### Tuesday:
 
 - [Introduction to Genomic Variant Calling](Workshop_Descriptions/gdc.md)
     - Common genomic data formats
     - an example variant calling pipeline using common tools
   
+Time | Session
+---|---
+09:30 | Talk
+10:00 | Genomic Data Carpentry
+10:30 | Break
+10:50 | Genomic Data Carpentry
+12:15 | Lunch
+13:00 | Genomic Data Carpentry
+14:40 | Break
+15:00 | Genomic Data Carpentry
+16:30 | Done
 
 
 ### Wednesday:
@@ -53,9 +77,32 @@ This event itself will only cost your time (there isn't a $ charge) and lunches 
     - Creating plots with ggplot
     - Data manipulation with the Tidyverse
 
+  Time | Session
+---|---
+09:30 | Genome Assembly
+10:30 | Break
+10:50 | Genome Assembly
+12:15 | Lunch
+13:00 | R
+14:40 | Break
+15:00 | R cont
+16:30 | Done
+
 ### Thursday:
 
 - [Introduction to RNAseq](Workshop_Descriptions/rna.md)
+
+Time | Session
+---|---
+09:30 | Talk
+10:00 | RNAseq
+10:30 | Break
+10:50 | RNAseq
+12:15 | Lunch
+13:00 | RNAseq
+14:40 | Break
+15:00 | RNAseq
+16:30 | Done
 
 ### Friday:
 
@@ -64,7 +111,17 @@ This event itself will only cost your time (there isn't a $ charge) and lunches 
     - Reproducible documents with Quarto
     - Virtual environments
 
-
+Time | Session
+---|---
+09:30 | Talk
+10:00 | Version Control
+10:30 | Break
+10:50 | Version Control cont.
+12:15 | Lunch
+13:00 | Quarto
+14:40 | Break
+15:00 | Virtual Environments
+16:30 | Done
 
 <!-- ## Potential Topics to be included -->
 
