@@ -7,3 +7,5 @@ We'll be making use of the REANNZ high performance compute (HPC) for researchers
 - Transfer of data to/from a remote computer
 - What is a job scheduler and how to use it?
 - How to request a project allocation on NeSI
+
+Workshop contents: [https://otagobioinformaticsspringschool.github.io/intro-hpc/](https://otagobioinformaticsspringschool.github.io/intro-hpc/)

@@ -8,6 +8,8 @@ We will have 3 taster sessions to give you a brief introduction to 3 common topi
 - How to configure git to track changes
 - How to view your change history
 
+Abridged version of [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/)
+
 ## Reproducibile documents with Quarto
 
 - Markdown syntax for document formatting
