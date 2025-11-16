@@ -9,3 +9,4 @@ We'll be making use of the REANNZ high performance compute (HPC) for researchers
 - How to request a project allocation on NeSI
 
 Workshop contents: [https://otagobioinformaticsspringschool.github.io/intro-hpc/](https://otagobioinformaticsspringschool.github.io/intro-hpc/)
+
