@@ -1,5 +1,7 @@
 # Plotting and data manipulation in R
 
+Introductory content will come from [https://carpentries-incubator.github.io/bioc-intro/index.html](https://carpentries-incubator.github.io/bioc-intro/index.html)
+
 
 This workshop aims to extend upon introduction to R courses such as [Data Carpentry - Data analysis and visualisation in R](https://datacarpentry.github.io/R-ecology-lesson/)
 
