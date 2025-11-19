@@ -15,3 +15,4 @@ Topics will include:
 - Applying functional programming
 
 
+Extra content: [https://otagobioinformaticsspringschool.github.io/beyond-intro-R/](https://otagobioinformaticsspringschool.github.io/beyond-intro-R/)
