@@ -22,3 +22,5 @@ Abridged version of [https://swcarpentry.github.io/git-novice/](https://swcarpen
 - What are virtual environments?
 - Creating virtual environments with Conda
 - Installing software into a Conda virtual environment
+
+Workshop: [https://otagobioinformaticsspringschool.github.io/conda/](https://otagobioinformaticsspringschool.github.io/conda/)
