@@ -16,6 +16,9 @@ Abridged version of [https://swcarpentry.github.io/git-novice/](https://swcarpen
 - Embedding code
 - Compiling documents
 
+Workshop material: [https://github.com/MattBixley/quarto-workshop](https://github.com/MattBixley/quarto-workshop)
+
+
 
 ## Virtual environments
 
